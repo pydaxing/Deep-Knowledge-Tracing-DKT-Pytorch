@@ -6,5 +6,5 @@ These source code is implemented with pytorch deep learning framework
 
 # Runing
 download the source code and the dataset, you can run it under DKT folder as:
-python run.py
+> python run.py
 
