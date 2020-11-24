@@ -4,9 +4,9 @@ import torchvision.transforms as transforms
 from torch.autograd import Variable
 from sklearn.model_selection import train_test_split
 
-class RNNModel(nn.Module):
+class DKT(nn.Module):
     def __init__(self, input_dim, hidden_dim, layer_dim, output_dim):
-        super(RNNModel, self).__init__()
+        super(DKT, self).__init__()
         self.hidden_dim = hidden_dim
         self.layer_dim = layer_dim
         self.output_dim = output_dim
