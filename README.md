@@ -17,7 +17,7 @@ Then, enter the directory of DKT/KnowledgeTracing/evaluation/, and you can run i
 You can change the dataset in Constants.py, line 22 and line 23.
 
 ### Detail Description
-The detail description is released on my own website: [https://chsong.live](https://chsong.live).
+The detail description is released on my own website: [心有暖阳](https://chsong.live/20201124_DKT-Pytorch/index.html).
 
 ### Future
 The GPU version will released in the soon.
