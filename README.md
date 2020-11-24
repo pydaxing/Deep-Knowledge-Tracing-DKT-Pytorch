@@ -1,12 +1,27 @@
-# DeepKnowledgeTracing-DKT-Pytorch
-source code for the paper Deep Knowledge Tracing. http://stanford.edu/~cpiech/bio/papers/deepKnowledgeTracing.pdf
-These source code is implemented with pytorch deep learning framework
+## DeepKnowledgeTracing-DKT-Pytorch
+This is the source code of Deep Knowledge Tracing moddel, which is implemented with pytorch deep learning framework. http://stanford.edu/~cpiech/bio/papers/deepKnowledgeTracing.pdf
 
-we pad the short question sequence with zero vector. 
+Note: we pad the short question sequence with zero vector. 
 
-# We will provide a more efficient implementation of DKT by utilizing GPU.
+### Start
+Cloning this repository into your computer with following commmand:
+> git clone
+### Running
+First, you should install the packages: numpy, torch, torchvision, tqdm, sklearn, with following command:
+> pip install 
 
-# Runing
-download the source code and the dataset, you can run it under DKT folder as:
+Then, enter the directory of DKT/KnowledgeTracing/evaluation/, and you can run it as:
 > python run.py
+
+### Different Datasets
+You can change the dataset in Constants.py, line 22 and line 23.
+
+### Detail Description
+The detail description is released on my own website: [https://chsong.live](https://chsong.live).
+
+### Future
+The GPU version will released in the soon.
+
+
+
 
