@@ -1,4 +1,4 @@
-## DeepKnowledgeTracing-DKT-Pytorch
+## Deep-Knowledge-Tracing-DKT-Pytorch
 This is the source code of Deep Knowledge Tracing moddel, which is implemented with pytorch deep learning framework. 
 
 Note: we pad the short question sequence with zero vector. 
